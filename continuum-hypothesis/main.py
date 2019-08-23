@@ -5,7 +5,7 @@ from pynput     import keyboard
 from datetime   import datetime
 
 # Constants
-N = 10
+N = 50
 LETTERS = ['a', 's', 'd', 'f', 'g', 'h', 'j', 'k', 'l', 'ñ']
 
 # Variables
