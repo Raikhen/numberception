@@ -41,6 +41,6 @@ for subject in subjects_str:
 
     subjects.append(obj)
 
-pprint(len(subjects))
+pprint(subjects)
 
 f.close()
